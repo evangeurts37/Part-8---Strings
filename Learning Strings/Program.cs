@@ -11,9 +11,10 @@ namespace Learning_Strings
         static void Main(string[] args)
         {
 
+            String name = "EVAN";
 
 
-
+            Console.WriteLine(name.Substring(1, name.Length -2));
 
 
 
